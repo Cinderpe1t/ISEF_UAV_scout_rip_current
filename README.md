@@ -1,10 +1,10 @@
 # ISEF 2024 ETSD037 Scout UAV wave and rip current analysis
 ## Python codes
-## Image samples
-- Original image set
-- Gradient density as amount of information
-- Information-weighted optical flow
-- Rip channel current
+## Image sample folders
+- `scout_video_09`: Original image set
+- `scout_video_09_gradient_density`: Gradient density as amount of information
+- `scout_video_09_info_weighted_wave_flow`: Information-weighted optical flow
+- `scout_video_09_rip_current`: Rip channel current analysis with depth and risk model
 ## Example images
 - Original ocean image from 100m
 ![original ocean image](https://github.com/Cinderpe1t/ISEF_UAV_scout_rip_current/blob/main/scout_video_09/gimbal0_2000.jpg)
