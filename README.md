@@ -7,7 +7,7 @@ Python codes for offline analysis of ocean wave flow and rip current.
 - `process_DFD_info_weight_r2.ipynb`: Demonstrate information-weighted optical flow with DFD vectors.
 - `rip_current_depth_model_r2.ipynb`: Demonstrate rip channel current analysis using information-weighted optical flow and depth and risk model.
 ## Image sample folders
-- `scout_video_09`: Original image set
+- `scout_video_09`: Original image set from scout mission #09. 10 images were uploaded due to size limit with the following processed images sets.
 - `scout_video_09_gradient_density`: Gradient density as amount of information
 - `scout_video_09_info_weighted_wave_flow`: Information-weighted optical flow
 - `scout_video_09_rip_current`: Rip channel current analysis with depth and risk model
